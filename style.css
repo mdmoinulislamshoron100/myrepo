@@ -246,3 +246,17 @@ footer {
         font-size: 14px;
     }
 }
+
+.dark-mode {
+    background-color: #111827;
+    color: white;
+}
+
+.dark-mode section {
+    background-color: #1e293b;
+    color: orange;
+}
+
+.dark-mode section h2 {
+    color: #38bdf8;
+}
