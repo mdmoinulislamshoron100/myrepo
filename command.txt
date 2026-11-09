@@ -1,0 +1,4 @@
+git clone url
+git clone url .
+git remote rename origin moinul
+git remote add shoron url
